@@ -8,5 +8,5 @@ html, body {
 }
 
 header{
-    background-color: var(--background2);
+    background-color: solid var(--background);
 }
